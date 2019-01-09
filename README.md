@@ -9,7 +9,7 @@ $ pipenv shell
 (hung) $ django-admin startproject project .
 (hung) $ python manage.py startapp app
 
-# project/settings.py
+# setting.py
   INSTALLED_APPS = [
   ...
   'pages.apps.PagesConfig', 
